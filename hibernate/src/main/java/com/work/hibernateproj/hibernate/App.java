@@ -1,4 +1,4 @@
-package com.girmiti.hibernateproj.hibernate;
+package com.work.hibernateproj.hibernate;
 
 /**
  * Hello world!
